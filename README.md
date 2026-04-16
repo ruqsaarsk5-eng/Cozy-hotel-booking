@@ -57,7 +57,7 @@ lib/
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/cozy_app.git
+git clone https://cozy-creponne-78b570.netlify.app/
 cd cozy_app
 
 ---
